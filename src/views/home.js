@@ -18,59 +18,59 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>HouseDeLeonWeb</title>
-        <meta property="og:title" content="HouseDeLeonWeb" />
+        <title>HouseDeLeon.com</title>
+        <meta property="og:title" content="HouseDeLeon.com" />
       </Helmet>
       <Navbar8
         link1={
           <Fragment>
             <span className="home-text100">
-              Link to DevOps Developer Portfolio
+              Christian De Leon
             </span>
           </Fragment>
         }
         link2={
           <Fragment>
             <span className="home-text101">
-              Link to HR Recruitment Officer Portfolio
+              Jhonalee De Leon
             </span>
           </Fragment>
         }
         link3={
           <Fragment>
             <span className="home-text102">
-              Link to Digital Products Catalogue
+              HDL Digital Products Catalogue
             </span>
           </Fragment>
         }
         link4={
           <Fragment>
             <span className="home-text103">
-              Link to Couples For Christ Sanctuary
+              Couples for Christ - New Brunswick Chapter 2 (Moncton)
             </span>
           </Fragment>
         }
         page1={
           <Fragment>
-            <span className="home-text104">DevOps Developer Portfolio</span>
+            <span className="home-text104">Christian De Leon</span>
           </Fragment>
         }
         page2={
           <Fragment>
             <span className="home-text105">
-              HR Recruitment Officer Portfolio
+              Jhonalee De Leon
             </span>
           </Fragment>
         }
         page3={
           <Fragment>
-            <span className="home-text106">Digital Products Catalogue</span>
+            <span className="home-text106">HDL Digital Products Catalogue</span>
           </Fragment>
         }
         page4={
           <Fragment>
             <span className="home-text107">
-              Couples For Christ Moncton NB Chapter Sanctuary
+              Couples for Christ - New Brunswick Chapter 2 (Moncton)
             </span>
           </Fragment>
         }
@@ -86,17 +86,14 @@ const Home = (props) => {
         }
         page1Description={
           <Fragment>
-            <span className="home-text110">
-              Explore the portfolio of a DevOps Developer with Python and
-              Microsoft DevOps CI/CD skillset
+            <span className="home-text110">Software Development/Agile/DevOps Professional
             </span>
           </Fragment>
         }
         page2Description={
           <Fragment>
             <span className="home-text111">
-              Discover the stylish portfolio of an HR Recruitment officer with a
-              half-body profile picture
+              HR Recruitment Professional
             </span>
           </Fragment>
         }
@@ -110,9 +107,7 @@ const Home = (props) => {
         }
         page4Description={
           <Fragment>
-            <span className="home-text113">
-              Visit the small sanctuary for the Moncton NB Chapter of Couples
-              For Christ, a Catholic-based charismatic community
+            <span className="home-text113">Welcome to CFC NB Chapter 2 (Moncton) Community!
             </span>
           </Fragment>
         }
@@ -140,7 +135,7 @@ const Home = (props) => {
         }
         heading1={
           <Fragment>
-            <span className="home-text117">Welcome to Our Landing Page</span>
+            <span className="home-text117">House De Leon</span>
           </Fragment>
         }
       ></Hero17>
@@ -152,7 +147,7 @@ const Home = (props) => {
         }
         feature2Title={
           <Fragment>
-            <span className="home-text119">Couples For Christ Community</span>
+            <span className="home-text119">CFC NB Chapter 2</span>
           </Fragment>
         }
         feature3Title={
@@ -231,8 +226,7 @@ const Home = (props) => {
         feature2Description={
           <Fragment>
             <span className="home-text131">
-              Discover the stylish portfolio of an HR Recruitment Officer with a
-              captivating half-body profile picture.
+              Discover the stylish portfolio of an HR Recruitment Officer
             </span>
           </Fragment>
         }
